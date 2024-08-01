@@ -4,4 +4,6 @@
 
 
 🧑 Olá, meu nome é Vitor e tenho 17 anos
+
+
 📚 Estou aprendendo mais sobre computação no Ensino Médio
